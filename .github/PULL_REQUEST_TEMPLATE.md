@@ -1,6 +1,6 @@
 ## Summary
 
-<!-- Provide a concise summary "Why are the changes needed"? Include any relevant links, such as Jira tickets, Slack discussions, or design documents. Not always needed. Good to have such in-depth description for large PRs. -->
+_Write what has changed in this PR, and why these changes are needed._
 
 ## Type of PR
 
