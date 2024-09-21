@@ -1,29 +1,15 @@
-## Summary
+### Problem
 
-_Write what has changed in this PR, and why these changes are needed._
+_Write about the problem that users or devs faced that led to this PR being created._
 
-## Type of PR
+### Solution
 
-- [ ] Improvement
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Documentation
-- [ ] Other
+_How did you solve this problem?_
 
-## Checklist
+### Reviewer notes
 
-<!-- Go over all the following points, and put an `x` in all the boxes that apply. -->
+_Provide any additional information that the reviewer might need to know._
 
-- [ ] This code is the best there is. I am confident about this PR
-- [ ] I have added comments to code in hard-to-understand areas
-- [ ] I have added documentation (if appropriate)
-- [ ] I have synced my branch with the latest changes from the `main` branch
-- [ ] I have added tests that prove my fix is effective or that my feature works
+### How to test
 
-## Reviewer notes
-
-<!-- Provide any additional information that the reviewer might need to know. -->
-
-## Screenshots
-
-<!-- If appropriate, add screenshots to help explain your changes. This is majorly for UI changes. -->
+_Provide steps and scenarios that need to be tested._
