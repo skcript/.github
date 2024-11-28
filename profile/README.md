@@ -1,5 +1,3 @@
-![skcript-github](https://github.com/skcript/.github/assets/973265/29975c8a-bb72-41ff-b234-b8626839757c)
-
 Skcript is a global technology consulting company specializing in GenAI and enterprise AI implementations. Our clients include government organizations, large banks, and startups.
 
 Our work has had an immense impact on the lives of people. We create a positive impact by respecting everyone at Skcript equally and building an idea-first company culture. The best idea always wins.
