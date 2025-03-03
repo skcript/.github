@@ -1,15 +1,8 @@
-### Problem
+**🔔 Reminder:** _Shabby or incomplete code is not acceptable at Skript._
 
-_Write about the problem that users or devs faced that led to this PR being created._
 
-### Solution
+_Please refer Gemini's comment below for a detailed description of this PR_
 
-_How did you solve this problem?_
-
-### Reviewer notes
-
-_Provide any additional information that the reviewer might need to know._
-
-### How to test
-
-_Provide steps and scenarios that need to be tested._
+---
+### Additional Notes
+_You can add any additional notes about this PR here._
