@@ -1,4 +1,4 @@
-**🔔 Reminder:** _Shabby or incomplete code is not acceptable at Skript._
+**🔔 Reminder:** _Shabby or incomplete code is not acceptable at Skcript._
 
 
 _Please refer Gemini's comment below for a detailed description of this PR_
