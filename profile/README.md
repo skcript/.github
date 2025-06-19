@@ -1,5 +1,5 @@
-Skcript is a global technology consulting company specializing in GenAI and enterprise AI implementations. Our clients include government organizations, large banks, and startups.
+Skcript is an AI-native software company founded in 2013, focused on building intelligent tools for support, enterprise workflows, and AI consulting. We ship FeatureOS (support intelligence), S1 EDGE (enterprise AI automation), and SEEK (proof-of-work hiring). Our products create lasting impact across governments, banks, and fast-growing startups around the world.
 
-Our work has had an immense impact on the lives of people. We create a positive impact by respecting everyone at Skcript equally and building an idea-first company culture. The best idea always wins.
+We specialize in cognitive science and enterprise-grade AI implementations that deliver clarity, precision, and speed. With over a decade of deep technical research and product development, Skcript operates with an idea-first culture where high trust and high performance go hand in hand.
 
-At Skcript, you will find one of the highest performing software engineering practices, and we famously say that our greatest product we've ever created is Skcript itself.
+At Skcript, the best idea always wins. And we believe the most powerful product we’ve ever built is Skcript itself.
