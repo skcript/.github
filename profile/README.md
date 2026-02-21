@@ -6,4 +6,4 @@ At Skcript, the best idea always wins. And we believe the most powerful product 
 
 ---
 
-Ongoing Research Area (ORA): **Quantum Intelligence**, **[Shared Second Brain](https://knol.app)**
+Ongoing Research Area (ORA): **Quantum Intelligence**, **[Shared Second Brain](https://knol.app)**, [Skcript micro](https://micro.skcript.com).
