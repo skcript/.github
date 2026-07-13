@@ -2,23 +2,23 @@
 
 We build thoughtfully designed software, made to empower every human at work. From startups to enterprises, Skcript brings clarity, speed and intelligence to the way modern teams work.
 
-Founded in 2013. AI-native. Idea-first — the best idea always wins.
+Founded in 2013. Rebuilt AI-native. Idea-first.
 
-## Three groups. One platform. One mission.
+## Three groups. One mission.
 
 ### Products
 - **[SupportWire](https://supportwire.app)** — AI-native live chat that actually resolves, built for SaaS teams. _Live_
 - **[FeatureOS](https://featureos.com)** — Agentic product operations: triage, cluster, and decide on customer feedback at scale. _Live_
 
-### Research & Development
+### Research & Engineering
 - **Grid1** — _Preview_
 - **[Knol](https://knol.app)** — Shared Second Brain. _Internal preview_
 - **PIE** — Private Information Enclave: end-to-end encrypted infrastructure, privacy as a primitive. _Preview_
 
 ### Consulting
-- **Applied AI**
-- **R&D engagements**
-- **Product engineering**
+- **Applied AI** — ship AI into real products and real workflows.
+- **R&D engagements** — de-risk the hard problems before you bet on them.
+- **Product engineering** — design and build the whole product, not just the code.
 
 ---
 
