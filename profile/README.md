@@ -7,7 +7,7 @@ Founded in 2013. Rebuilt AI-native. Idea-first.
 ## Three groups. One mission.
 
 ### Products
-- **[SupportWire](https://supportwire.app)** — AI-native live chat that actually resolves, built for SaaS teams. _Live_
+- **[SupportWire](https://supportwire.ai)** — AI-native live chat that actually resolves, built for SaaS teams. _Live_
 - **[FeatureOS](https://featureos.com)** — Agentic product operations: triage, cluster, and decide on customer feedback at scale. _Live_
 
 ### Research & Engineering
