@@ -13,7 +13,7 @@ permissions:
   contents: read
 jobs:
   test:
-    runs-on: [self-hosted, linux, airlock]
+    runs-on: [self-hosted, linux, airlock, case]
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
